@@ -306,6 +306,7 @@ a:hover {
     height: 100%;
     object-fit: cover;
     transition: transform 0.15s ease-in-out;
+    filter: blur(0.15rem);
 }
 
 .project-item:hover .project-image img {
